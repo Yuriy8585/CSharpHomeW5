@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\GeekBrains\\c#\\Homework5\\Task35\\Task35.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\GeekBrains\\c#\\Homework5\\Task34\\Task35.csproj",
       "projectName": "Task35",
-      "projectPath": "C:\\Users\\HP\\Desktop\\GeekBrains\\c#\\Homework5\\Task35\\Task35.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\GeekBrains\\c#\\Homework5\\Task34\\Task35.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\GeekBrains\\c#\\Homework5\\Task35\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\GeekBrains\\c#\\Homework5\\Task34\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
